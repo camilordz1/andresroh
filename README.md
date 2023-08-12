@@ -1,8 +1,8 @@
-### Hello World 
+## Hello World 
 
 My name is Camilo, and I'm Colombian. I hold a degree in mechanical engineering and have diverse experience spanning different engineering fields, including technical support, design, simulation and programming. Currently, my main goal is to become a Data Scientist, where I can tackle new and challenging problems.
 
-## 🌱 Abilities:
+### Abilities:
 
 Some skills that I have:
 
@@ -15,7 +15,7 @@ Some skills that I have:
 - Excel
 - Power BI
 
-## 🚶‍♂️ hobbies
+### Hobbies
 
 Enjoy some activities like:
 
@@ -24,7 +24,7 @@ Enjoy some activities like:
 - 3D printing
 - Improve my english, I'm not as good as I would like to be
 
-## 📫 Contact
+### 📫 Contact
 
 Keep in touch by:
 
