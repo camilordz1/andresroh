@@ -14,6 +14,7 @@ Some skills that I have:
 - MEF Analysis
 - Excel
 - Power BI
+- Wordpress
 
 ### Hobbies
 
